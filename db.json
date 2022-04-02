@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "username": "sahilshekh",
+      "mobile": "22",
+      "email": "sdfraggggg",
+      "salary": "2313321",
+      "marital state": "on",
+      "id": 1
+    },
+    {
+      "name": "Sahil Shekh",
+      "email": "sahilshekh885799@gmail.com",
+      "salary": "2313321",
+      "marital state": "on",
+      "id": 2
+    },
+    {
+      "name": "Sahil Shekh",
+      "age": "22",
+      "address": "AT.POST.CHAUKA, Aurangabad",
+      "salary": "2313321",
+      "marital state": "on",
+      "id": 3
+    },
+    {
+      "name": "Sahil Shekh",
+      "age": "54",
+      "address": "AT.POST.CHAUKA, Aurangabad",
+      "salary": "2313321",
+      "marital state": "on",
+      "id": 4
+    },
+    {
+      "name": "Sahil Shekh",
+      "age": "44",
+      "address": "AT.POST.CHAUKA, Aurangabad",
+      "salary": "2313321",
+      "marital state": "on",
+      "id": 5
+    },
+    {
+      "name": "Sahil Shekh",
+      "age": "566",
+      "address": "AT.POST.CHAUKA, Aurangabad",
+      "department": "Instructional Associate",
+      "salary": "2313321",
+      "marital state": "on",
+      "id": 6
+    },
+    {
+      "name": "Sahil Shekh",
+      "age": "234",
+      "address": "AT.POST.CHAUKA, Aurangabad",
+      "department": "Instructional Associate",
+      "salary": "2313321",
+      "marital state": "on",
+      "id": 7
+    },
+    {
+      "name": "nam",
+      "age": "555",
+      "address": "AT.POST.CHAUKA, Aurangabad",
+      "department": "founder",
+      "salary": "2313321",
+      "maritalState": "on",
+      "id": 8
+    },
+    {
+      "name": "gyhaged",
+      "age": "444",
+      "address": "AT.POST.CHAUKA, Aurangabad",
+      "department": "Instructional Associate",
+      "salary": "2313321",
+      "maritalState": "on",
+      "id": 9
+    }
+  ]
+}
